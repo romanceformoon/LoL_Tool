@@ -1,2 +1,11 @@
 /venv
 *.cs
+/dist
+/build
+/__pycache__
+/.vscode
+*.spec
+*.png
+*.ico
+/image
+*.zip
